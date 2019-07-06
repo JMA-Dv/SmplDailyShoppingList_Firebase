@@ -1,0 +1,1 @@
+# SmplDailyShoppingList_Firebase
