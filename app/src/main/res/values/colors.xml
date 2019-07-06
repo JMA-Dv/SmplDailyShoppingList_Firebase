@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2962FF</color>
+    <color name="colorPrimaryDark">#0091EA</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="startColorDesign">#1E88E5</color>
+    <color name="endColorDesign">#00897B</color>
+
+
+    <color name="startColorDesign2">#311B92</color>
+    <color name="endColorDesign2">#01579B</color>
+
+    <color name="floatingButton">#3798C4</color>
+</resources>
